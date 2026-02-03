@@ -8,6 +8,8 @@
 /workspaces/soap-bank/src/main/java/com/example/bank/config/WebServiceConfig.java
 /workspaces/soap-bank/target/generated-sources/jaxb/com/example/bank/ws/DepositResponse.java
 /workspaces/soap-bank/target/generated-sources/jaxb/com/example/bank/ws/GetAccountResponse.java
+/workspaces/soap-bank/target/generated-sources/jaxb/com/example/bank/ws/WithdrawResponse.java
 /workspaces/soap-bank/src/main/java/com/example/bank/endpoint/BankEndpoint.java
+/workspaces/soap-bank/target/generated-sources/jaxb/com/example/bank/ws/WithdrawRequest.java
 /workspaces/soap-bank/src/main/java/com/example/bank/service/UnknownAccountException.java
 /workspaces/soap-bank/target/generated-sources/jaxb/com/example/bank/ws/ObjectFactory.java

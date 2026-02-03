@@ -1,8 +1,10 @@
 com/example/bank/ws/DepositResponse.class
+com/example/bank/ws/WithdrawRequest.class
 com/example/bank/endpoint/BankEndpoint.class
 com/example/bank/ws/GetAccountResponse.class
 com/example/bank/service/InvalidAmountException.class
 com/example/bank/ws/ObjectFactory.class
+com/example/bank/ws/WithdrawResponse.class
 com/example/bank/SoapBankApplication.class
 com/example/bank/service/UnknownAccountException.class
 com/example/bank/ws/DepositRequest.class
